@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://arshaanish5.github.io/reactapp",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
